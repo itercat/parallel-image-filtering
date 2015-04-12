@@ -1,0 +1,1 @@
+The task of this project is to develop a parallel implementation of image filtering (enhance an image applying square filters to it) in both OpenMP and MPI. Images are in Portable Gray Map (PGM) format. Both implementations will be done in C.
